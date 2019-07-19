@@ -49,10 +49,10 @@ except KeyboardInterrupt:
     observer.stop()
 observer.join()
 
-# username = 'www.altafmohammad@gmail.com'
-# password = 'altafrose'
-# image = 'posts/S5.png'
-# text = 'Read this, This is totally opposite to my post quoet. honestly i am not posting this post, My python script is uploading at this time' + '\r\n' + '#rock #pain #grow #true #success'
+# username = 'your gmail'
+# password = 'your password'
+# image = 'image file'
+# text = 'Description text goes here'
 
 # with client(username, password) as cli:
 #     cli.upload(image, text)
